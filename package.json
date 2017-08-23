@@ -1,0 +1,21 @@
+{
+  "name": "extend",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxil/extend.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dxil/extend/issues"
+  },
+  "homepage": "https://github.com/dxil/extend#readme"
+}
